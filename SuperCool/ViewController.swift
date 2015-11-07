@@ -30,6 +30,11 @@ class ViewController: UIViewController {
         coolLogoImage.hidden = false
         coolBgImage.hidden = false
         unCoolBtn.hidden = true
+       
+        
+        
+        
+        
         
         
         
